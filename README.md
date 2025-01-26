@@ -1,3 +1,4 @@
+![Screenshot 2025-01-26 174038](https://github.com/user-attachments/assets/7bc7cd41-f24e-4028-baa1-026054d56a05)
                                                                                               #Todo Application 
  Enhance the basic To-Do application by integrating external API data, 
  implementing advanced state management using Redux, 
@@ -31,7 +32,6 @@ Task Prioritization: Allow users to set priorities for tasks (e.g., High, Medium
 Persistent Storage: Use local storage or session storage to save tasks and authentication status, ensuring data persistence across browser sessions.
 User Authentication:
 Add a simple user authentication feature (login/logout functionality) that simulates the process using Redux for state management. There's no need to integrate with a backend; you can mock the authentication process.
-Protect the To-Do list behind authentication, ensuring that tasks are only visible to logged-in users.
+Protect the To-Do list behind authentication, ensuring that tasks are only visible to logged-in use![Screenshot 2025-01-26 174105](https://github.com/user-attachments/assets/6742f514-4482-4485-b19c-92592c4d9aaa)
 
-![Screenshot 2025-01-26 174017](https://github.com/user-attachments/assets/0656a143-ebf7-4923-b711-d86938b051b3)
 
